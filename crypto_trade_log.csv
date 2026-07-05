@@ -1,0 +1,2 @@
+timestamp,symbol,action,entry,stop,TP1,TP2,TP3,TP4,TP5,score,ai_approved
+2026-07-05 07:44:50,ADA-USD,LONG,0.1927,0.184992,0.195783,0.198866,0.20195,0.205033,0.208116,11.0,True
