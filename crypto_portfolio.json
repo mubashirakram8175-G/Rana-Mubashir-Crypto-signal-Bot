@@ -1,6 +1,6 @@
 {
-  "balance": 1000.0,
-  "realized_pnl": 0.0,
+  "balance": 989.9999999999684,
+  "realized_pnl": -10.000000000031587,
   "open_positions": 1,
   "daily_loss_limit": -100
 }
